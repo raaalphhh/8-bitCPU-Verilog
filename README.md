@@ -64,6 +64,7 @@ The memory.mem file contains preloaded instructions executed by the CPU.
 ```
 
 ### 👨‍💻 Developers
+```
 Developed by Group Members – Computer Engineering Students
 ARMADO, James Neftali B.
 ANDAL, Anthony Aries C.
@@ -80,3 +81,4 @@ LORENZO, Yesuah Jirah D.
 
 📍 Computer Architecture and Organization - Course Project | Bulacan State University
 🧾 Academic Term: 1st Semester, AY 2024–2025
+```
