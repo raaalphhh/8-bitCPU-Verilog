@@ -79,6 +79,6 @@ DELA CRUZ, Jay Vee A.
 ERFE, Irysse J.
 LORENZO, Yesuah Jirah D.
 
-📍 Computer Architecture and Organization - Course Project | Bulacan State University
+📍 Bulacan State University | Computer Architecture and Organization - Course Project 
 🧾 Academic Term: 1st Semester, AY 2024–2025
 ```
