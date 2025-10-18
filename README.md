@@ -42,7 +42,6 @@ It simulates instruction fetching, decoding, and execution in a simplified archi
 ```
 8bit-CPU-Verilog/
 ├── EightbitCPU.v # Main CPU Module
-├── EightbitCPU_TB.v # Testbench
 ├── memory.mem # Instruction Memory File
 └── README.md
 ```
@@ -62,8 +61,9 @@ vvp cpu_sim
 # View Waveform (optional)
 gtkwave CPU_Test.vcd
 The memory.mem file contains preloaded instructions executed by the CPU.
+```
 
-👨‍💻 Developers
+### 👨‍💻 Developers
 Developed by Group Members – Computer Engineering Students
 ARMADO, James Neftali B.
 ANDAL, Anthony Aries C.
